@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123034517134",
+    "project_id": "dayflutterlearning",
+    "storage_bucket": "dayflutterlearning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123034517134:android:a4d7b5476e6787298d13df",
+        "android_client_info": {
+          "package_name": "com.example.practiseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ55shQa0CJDyM8v9oqLSSBwxSOAMa3u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
